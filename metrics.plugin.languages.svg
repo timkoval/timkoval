@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.55mb of code in 867 edited files across 139 commits</small>
+                <small>estimation from 2.57mb of code in 870 edited files across 140 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.3590449366908" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="116.3590449366908" y="0" width="100.78088063282634" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="217.13992556951715" y="0" width="77.7084540475879" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="294.848379617105" y="0" width="64.69022221916167" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="359.5386018362667" y="0" width="57.71907854157178" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="417.2576803778385" y="0" width="20.99533801138985" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="438.2530183892284" y="0" width="11.132561221187208" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="449.38557961041556" y="0" width="10.614420389584454" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="113.95400458393426" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="113.95400458393426" y="0" width="98.69782740013468" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="212.65183198406896" y="0" width="84.8722076585807" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="297.52403964264965" y="0" width="63.35313153617676" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="360.8771711788264" y="0" width="56.54424537054432" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="417.42141654937075" y="0" width="20.561382617852296" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="437.98279916722305" y="0" width="11.114739978785575" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.0975391460086" y="0" width="10.902460853991384" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -70,15 +70,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Lua
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Lua
                     </div>
                 </div>
             </section>
